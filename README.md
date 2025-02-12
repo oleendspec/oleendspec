@@ -43,8 +43,6 @@
 - :seedling: Exploring Technical Content Writing.
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
-  
-- 💬 Ask me about anything [here](https://github.com/oleendspec/oleendspec/issues)
 
 <div align="center">
 
@@ -55,11 +53,7 @@
   <div>
 
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=oleendspec&show_icons=true&theme=transparent)
-  <p align="center">
-    <a href="https://github.com/oleendspec">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=oleendspec&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
-    </a>
-  </p>
+  
   </div>
   <picture>
     <source
